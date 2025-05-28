@@ -1,2 +1,8 @@
 # Basic_Js
-Solutions to basic_JS programming problems covering arrays, loops, conditionals, function, objects and others.
+Solutions to fundamental programming problems covering 
+-- Variables
+-- arrays
+-- conditionals/Loops 
+-- functions 
+-- objects and
+-- Basic Problems.
