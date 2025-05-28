@@ -3,8 +3,13 @@ Solutions to fundamental programming problems covering
 
 
 --> Variables
+
 --> arrays
---> conditionals/Loops 
+
+--> conditionals/Loops
+
 --> functions 
+
 --> objects and
+
 --> Basic Problems.
